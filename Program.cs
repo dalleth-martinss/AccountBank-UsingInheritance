@@ -7,24 +7,21 @@ namespace ExerciseAccountBankUsandoHeranca
     {
         static void Main(string[] args)
         {
-            BusinessAccount account = new BusinessAccount(123, "John Doe", 1000.0, 500.0);
+            BusinessAccount account = new BusinessAccount(123, "John Doe", 1000.00, 1500.00);
 
-            Console.WriteLine(account.Number);
-            Console.WriteLine(account.Holder);
-            Console.WriteLine(account.Balance);
+            Console.WriteLine(account);
+
 
             account.Deposit(1000);
             account.withdraw(158.50);
+            account.Loan(150.0);
 
-            account.LoanLimit = 5000.00;
-            account.Loan(6000.00);
-
-            
-            
-            
 
             Console.WriteLine(account.Balance);
+
             Console.WriteLine(account.LoanLimit);
+
+
 
             Console.ReadLine();
         }
