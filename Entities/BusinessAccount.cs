@@ -1,6 +1,8 @@
 ﻿
 
 
+using System;
+
 namespace ExerciseAccountBankUsandoHeranca.Entities
 {
      class BusinessAccount : Account
@@ -19,7 +21,18 @@ namespace ExerciseAccountBankUsandoHeranca.Entities
             double LoanLimit = loanLimit;
         }
 
-
+        public void Loan(double amount)
+        {
+            // verificar se o valor do emprestimo é < ou = ao LoanLimit(limite de emprestimo)
+            if( amount <= LoanLimit)
+            {
+                Balance += amount;
+            }
+            else
+            {
+                Console.WriteLine("Saldo de limite insuficiente.");
+            }
+        }
 
     }
 }

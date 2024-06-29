@@ -1,2 +1,7 @@
 C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ExerciseAccountBankUsandoHeranca\obj\Debug\ExerciseAccountBankUsandoHeranca.csproj.AssemblyReference.cache
 C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ExerciseAccountBankUsandoHeranca\obj\Debug\ExerciseAccountBankUsandoHeranca.csproj.CoreCompileInputs.cache
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ExerciseAccountBankUsandoHeranca\bin\Debug\ExerciseAccountBankUsandoHeranca.exe.config
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ExerciseAccountBankUsandoHeranca\bin\Debug\ExerciseAccountBankUsandoHeranca.exe
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ExerciseAccountBankUsandoHeranca\bin\Debug\ExerciseAccountBankUsandoHeranca.pdb
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ExerciseAccountBankUsandoHeranca\obj\Debug\ExerciseAccountBankUsandoHeranca.exe
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ExerciseAccountBankUsandoHeranca\obj\Debug\ExerciseAccountBankUsandoHeranca.pdb
